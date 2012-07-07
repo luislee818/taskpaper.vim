@@ -1,4 +1,4 @@
-taskpaper.txt   For Vim version 6.0     Last change: 2012 March 13
+*TaskPaper* taskpaper.txt   For Vim version 6.0     Last change: 2012 March 13
 
 David O'Callaghan <david.ocallaghan@cs.tcd.ie>
 
